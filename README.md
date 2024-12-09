@@ -53,6 +53,7 @@ This project aims to improve Walmart's sales forecasting accuracy using a combin
 │   └── Report.pdf
 │   └── Presentation.ppt
 └── README.md
+```
 ---
 
 ## **Results**
