@@ -44,21 +44,15 @@ This project aims to improve Walmart's sales forecasting accuracy using a combin
 ---
 
 ## **Project Structure**
-walmart-sales-forecasting/
-├── walmart-sales-forecasting.R     # Main script for analysis
-├── data/
-│   ├── raw_data.csv                # Raw dataset
-│   ├── cleaned_data.csv            # Cleaned dataset with features
-├── plots/
-│   ├── sales_trend.png             # Sales trends over time
-│   ├── holiday_boxplot.png         # Boxplot for holiday vs non-holiday sales
-│   ├── correlation_heatmap.png     # Correlation heatmap of features
-├── models/
-│   ├── linear_regression_model.rds # Saved Linear Regression model
-│   ├── decision_tree_model.rds     # Saved Decision Tree model
-│   ├── arima_model.rds             # Saved ARIMA model
-│   ├── xgboost_model.rds           # Saved XGBoost model
-├── README.md                       # Project documentation
+```plaintext
+📂 data
+└── Walmart_sales.csv
+├── Walmart-sales-forecasting.R
+├── Walmart-sales-forecasting.pdf
+├── 📂 reports
+│   └── Report.pdf
+│   └── Presentation.ppt
+└── README.md
 ---
 
 ## **Results**
